@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/hp/StudioProjects/wishlist/app/src/main/res/drawable-v24/btnstyle.xml" value="0.116" />
+        <entry key="..\:/Users/hp/StudioProjects/wishlist/app/src/main/res/drawable-v24/edittextstyle.xml" value="0.116" />
+        <entry key="..\:/Users/hp/StudioProjects/wishlist/app/src/main/res/drawable-v24/icon_hom.xml" value="0.1" />
+        <entry key="..\:/Users/hp/StudioProjects/wishlist/app/src/main/res/layout/activity_add_category.xml" value="0.15104166666666666" />
+        <entry key="..\:/Users/hp/StudioProjects/wishlist/app/src/main/res/layout/activity_login.xml" value="0.17239583333333333" />
+        <entry key="..\:/Users/hp/StudioProjects/wishlist/app/src/main/res/layout/activity_main.xml" value="0.17239583333333333" />
+        <entry key="..\:/Users/hp/StudioProjects/wishlist/app/src/main/res/layout/activity_sign_up.xml" value="0.1" />
+        <entry key="..\:/Users/hp/StudioProjects/wishlist/app/src/main/res/layout/activity_signup.xml" value="0.1" />
+        <entry key="..\:/Users/hp/StudioProjects/wishlist/app/src/main/res/layout/activity_splash_screen.xml" value="0.14791666666666667" />
+        <entry key="..\:/Users/hp/StudioProjects/wishlist/app/src/main/res/layout/card_layout_product.xml" value="0.14791666666666667" />
+        <entry key="..\:/Users/hp/StudioProjects/wishlist/app/src/main/res/layout/card_update_user.xml" value="0.1" />
+        <entry key="..\:/Users/hp/StudioProjects/wishlist/app/src/main/res/layout/fragment__show__all__category.xml" value="0.1" />
+        <entry key="..\:/Users/hp/StudioProjects/wishlist/app/src/main/res/layout/fragment_add_category.xml" value="0.15104166666666666" />
+        <entry key="..\:/Users/hp/StudioProjects/wishlist/app/src/main/res/layout/fragment_add_product.xml" value="0.13697916666666668" />
+        <entry key="..\:/Users/hp/StudioProjects/wishlist/app/src/main/res/layout/fragment_all_product.xml" value="0.13697916666666668" />
+        <entry key="..\:/Users/hp/StudioProjects/wishlist/app/src/main/res/layout/fragment_edit_category.xml" value="0.13697916666666668" />
+        <entry key="..\:/Users/hp/StudioProjects/wishlist/app/src/main/res/layout/fragment_edit_product.xml" value="0.13697916666666668" />
+        <entry key="..\:/Users/hp/StudioProjects/wishlist/app/src/main/res/layout/fragment_show_product.xml" value="0.13697916666666668" />
+        <entry key="..\:/Users/hp/StudioProjects/wishlist/app/src/main/res/layout/fragment_show_product_details.xml" value="0.1" />
+        <entry key="..\:/Users/hp/StudioProjects/wishlist/app/src/main/res/layout/fragment_user.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/hp/StudioProjects/wishlist/app/src/main/res/layout/single_card_user.xml" value="0.1" />
+        <entry key="..\:/Users/hp/StudioProjects/wishlist/app/src/main/res/layout/single_category_card.xml" value="0.1" />
+        <entry key="..\:/Users/hp/StudioProjects/wishlist/app/src/main/res/layout/single_product_card.xml" value="0.1" />
+        <entry key="..\:/Users/hp/StudioProjects/wishlist/app/src/main/res/layout/style_spinner.xml" value="0.14791666666666667" />
+        <entry key="..\:/Users/hp/StudioProjects/wishlist/app/src/main/res/menu/menu.xml" value="0.17239583333333333" />
+        <entry key="..\:/android_projects/wishlist/app/src/main/res/layout/fragment_user.xml" value="0.1515625" />
+        <entry key="..\:/android_projects/wishlist/app/src/main/res/layout/single_product_card.xml" value="0.1515625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
